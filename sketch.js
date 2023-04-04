@@ -3,7 +3,7 @@ let shapeColor;
 function setup() {
   createCanvas(700, 500);
   
-  shapeColor = color(255,200,200);
+  shapeColor = color(255,200,200); //background
 }
 
 function draw() {
