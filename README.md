@@ -1,6 +1,6 @@
 //P5_toy
 
-A color-changing toy built using P5JS and hosted on the web.
+A color-changing toy built using P5JS and hosted on the web (https://omo776.github.io/P5_toy/)
 
 
 
